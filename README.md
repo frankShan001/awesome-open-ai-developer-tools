@@ -820,6 +820,8 @@ MCP server that gives an agent YouTube transcripts, video and channel search, an
 ### [CutVoke](https://github.com/frankShan001/CutVoke)
 `Python` · `MIT` · Desktop app + local MCP server · ACTIVEMARK
 
+Local-first desktop video editor (Windows, macOS, Linux) with a built-in MCP server, so an agent and a human edit the same non-destructive multi-track timeline. Desktop packages bundle FFmpeg (GPLv3).
+
 ---
 
 ## Local Inference Engines
